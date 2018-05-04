@@ -5,4 +5,14 @@
 
 | Criterion  | Evaluation Data | Score |
 | ------------- | ------------- | --------|
-
+| Project Name & URL | - | - |
+|Licensing | - | - |
+|Language | - | - |
+|Activity | - | - |
+|Issue tracker | - | - |
+|Number of contributors | - | - |
+|New contributor | - | - |
+|Community norms | - | - |
+|Size | - | - |
+|User base | - | - |
+|Total | - | - |
