@@ -10,7 +10,7 @@
 | Issue tracker | There are 170 open issues and 11970 closed issues, with around 10 closed in the last week. | 2 |
 | Number of contributors | There have been 772 contributors. | 2 |
 | New contributor | There are many resources linked for new contributors and issues labeled "first timers welcome" | 2 |
-|Community norms | - | - |
+|Community norms | Commuication in the project's Gitter seems kind and helpful. Many people ask questions and say thank you when their questions are answered. Many users send each other "brownie points" after getting help, which seems to be a point system implemented either through Gitter or the project. Lots of smiley emojis are used which make the Gitter environment seem welcoming. | 2 |
 |Size | - | - |
 |User base | - | - |
 |Total | - | - |
