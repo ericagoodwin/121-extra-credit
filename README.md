@@ -4,5 +4,6 @@
 ## Open Source Project: Superset https://github.com/apache/incubator-superset
 
 | First Header  | Second Header |
+| ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
